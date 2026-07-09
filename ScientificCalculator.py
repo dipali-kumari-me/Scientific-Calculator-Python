@@ -52,4 +52,5 @@ def scientific_calculator():
         else:
             print("Invalid choice! Please try again")
 
+
 scientific_calculator()
